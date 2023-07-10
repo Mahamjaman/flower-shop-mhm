@@ -65,3 +65,33 @@ padding-top: 50px;
     font-size: large;
     margin-bottom:  20px;
 }
+.fdtext{
+   text-align: center;
+   padding-top: 100px;
+   margin-bottom: 20px;
+}
+.fimg{
+    background-color: #E55473;
+    padding: 20px 50px 0px 50px;
+    border-radius: 300px 300px 0px 0px;
+    justify-content: center;
+    margin: 10px;
+    height: 480px;
+    width: 280px;
+}
+.ione{
+background: rgba(167, 33, 98, 0.15);
+}
+.itwo{
+   background-color:   #0597A026;
+}
+.ithree{
+  background-color:  #477D1126;
+}
+.pera{
+    padding: 20px 50px 0px 50px;
+    justify-content: space-around;
+    margin: 10px 88px;
+    text-decoration: underline;
+    display: inline-flex;
+}
