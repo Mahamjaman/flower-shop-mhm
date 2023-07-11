@@ -174,7 +174,7 @@ border-radius: 8px;
 .ftext{
     color:  #FFFFFF;
     text-align: center;
-    padding-top: 50px;
+    padding: 100px ;
 }
 .lgr{
     font-size: xx-large;
@@ -182,4 +182,7 @@ border-radius: 8px;
 .right{
     padding-top: 50px;
     color: #FFFFFF66 ;
+}
+.navbtn:hover{
+    color: rgba(115, 70, 157, 0.418);
 }
