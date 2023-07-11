@@ -142,8 +142,44 @@ span{
     font-weight: bold;
     font-size: xx-large;
 }
-.Ideal{
-    height: 100vh;
-    background-color: aqua;
-    
+.ideal{
+    height: 400px;
+    background-image: url("../Flower-Asset/Rectangle-9.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 100px;
+    border-radius: 8px;
+background-color:  lightgray 0px -203.444px / 100% 213.755% ;
+}
+.coup-text{
+    text-align: center;
+   padding-top: 100px;
+   margin-bottom: 20px;
+}
+.input-c{
+    size: 50px;
+}
+input{
+    width: 600px;
+height: 25px;
+border: none;
+padding: 10px;
+margin-right: 10px;
+border-radius: 8px;
+}
+.bgf{
+    background: #111010;
+    height: 400px;
+}
+.ftext{
+    color:  #FFFFFF;
+    text-align: center;
+    padding-top: 50px;
+}
+.lgr{
+    font-size: xx-large;
+}
+.right{
+    padding-top: 50px;
+    color: #FFFFFF66 ;
 }
